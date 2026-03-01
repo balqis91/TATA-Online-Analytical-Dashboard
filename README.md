@@ -1,6 +1,7 @@
 # TATA-Online-Analytical-Dashboard
 #  TATA Online Retail Dashboard  
 <img width="1173" height="642" alt="image" src="https://github.com/user-attachments/assets/dc35fe3a-f618-4b99-b683-132d3a416d76" />
+
 ##  Overview  
 This project focuses on analyzing sales performance for **TATA Online Retail** using an interactive dashboard.  
 The goal was to extract actionable insights from retail transaction data, identify key trends,  
