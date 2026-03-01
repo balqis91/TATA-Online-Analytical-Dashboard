@@ -1,21 +1,21 @@
 # TATA-Online-Analytical-Dashboard
-# 🛒 TATA Online Retail Dashboard  
-
-## 📌 Overview  
+#  TATA Online Retail Dashboard  
+<img width="1173" height="642" alt="image" src="https://github.com/user-attachments/assets/dc35fe3a-f618-4b99-b683-132d3a416d76" />
+##  Overview  
 This project focuses on analyzing sales performance for **TATA Online Retail** using an interactive dashboard.  
 The goal was to extract actionable insights from retail transaction data, identify key trends,  
 and present them in a user-friendly format for decision-making.  
 
 The dashboard provides a comprehensive view of:  
-- 📦 Total Sales Quantity  
-- 🛍️ Order Volume  
-- 👥 Registered Customers  
-- 💷 Total Revenue & Average Price  
-- 🌍 Geographical Sales Distribution  
+-  Total Sales Quantity  
+-  Order Volume  
+-  Registered Customers  
+-  Total Revenue & Average Price  
+-  Geographical Sales Distribution  
 
 ---
 
-## ✅ User Requirement  
+##  User Requirement  
 The business required a solution to:  
 - Monitor **total sales, orders, and revenue**.  
 - Identify **top-performing products** and their contribution to revenue.  
@@ -25,7 +25,7 @@ The business required a solution to:
 
 ---
 
-## 📊 About the Dataset  
+##  About the Dataset  
 - **Source:** [UCI Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Retail)   
 - **Period Covered:** December 2010 – December 2011  
 - **Records:** ~500,000 transactions  
@@ -44,7 +44,7 @@ The business required a solution to:
 
 ---
 
-## 🧹 Data Cleaning & Preparation  
+##  Data Cleaning & Preparation  
 Steps taken to ensure data quality:  
 - Removed **duplicates** and **null values** (especially in `CustomerID` and `Description`).  
 - Excluded **cancellations and refunds** (negative quantities).  
@@ -56,7 +56,7 @@ Steps taken to ensure data quality:
 
 ---
 
-## 📈 Modelling & Visualization  
+##  Modelling & Visualization  
 The analysis and visualization were performed using **Power BI**.  
 
 **Key Visuals:**  
@@ -67,14 +67,10 @@ The analysis and visualization were performed using **Power BI**.
 - **Map Visualization:** Revenue & Quantity by Country  
 - **Monthly Trend:** Revenue progression over time  
 
-📌 *Screenshot of the dashboard:*  
-
-<img width="1173" height="642" alt="image" src="https://github.com/user-attachments/assets/dc35fe3a-f618-4b99-b683-132d3a416d76" />
  
-
 ---
 
-## 🔍 Findings  
+##  Findings  
 - **Top Product:** *Zinc T-Light* contributed the highest revenue (£4.2K).  
 - **Sales Growth:** 2011 generated **92%** of total revenue, indicating strong year-on-year growth.  
 - **Best Sales Days:** Highest revenue on **Thursday (£2.1M)**, lowest on **Sunday (£0.8M)**.  
@@ -83,7 +79,7 @@ The analysis and visualization were performed using **Power BI**.
 
 ---
 
-## 📌 Conclusion  
+##  Conclusion  
 The dashboard reveals that **Europe and Zinc T-Light products drive the majority of revenue**,  
 with clear weekly sales patterns.  
 
@@ -96,13 +92,13 @@ This dashboard provides a strong foundation for **ongoing business monitoring an
 
 ---
 
-## ⚙️ Tools Used  
+##  Tools Used  
 - **Power BI** – Dashboard creation & visualization  
 - **Excel / CSV** – Initial data review & preparation  
 - **DAX / Power Query** – Data cleaning and transformation  
 
 ---
 
-👩‍💻 Created by [Balikisu Ajoke Oniyide]  
+ Created by Balikisu Ajoke Oniyide. 
 
 
