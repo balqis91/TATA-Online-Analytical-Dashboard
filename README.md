@@ -8,7 +8,7 @@ The goal is to transform raw sales data into meaningful insights that support da
 ---
 
 ##  Live Dashboard
-👉 [Click here to view the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmM0ODBhNzgtMTczMi00NmFiLTk3NWUtOWQzNWEwNDE1MjM3IiwidCI6IjU2M2QwNDI1LTBlMDQtNGVlMi05NTE3LTNjYmIxMzMyZTQ5OCJ9)
+[Click here to view the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmM0ODBhNzgtMTczMi00NmFiLTk3NWUtOWQzNWEwNDE1MjM3IiwidCI6IjU2M2QwNDI1LTBlMDQtNGVlMi05NTE3LTNjYmIxMzMyZTQ5OCJ9)
 
 ---
 
