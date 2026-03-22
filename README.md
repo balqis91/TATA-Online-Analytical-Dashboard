@@ -2,6 +2,9 @@
 #  TATA Online Retail Dashboard  
 <img width="1173" height="642" alt="image" src="https://github.com/user-attachments/assets/dc35fe3a-f618-4b99-b683-132d3a416d76" />
 
+# Dashboard Preview
+![Dashboard]([your-image-link-here](https://app.powerbi.com/view?r=eyJrIjoiZmM0ODBhNzgtMTczMi00NmFiLTk3NWUtOWQzNWEwNDE1MjM3IiwidCI6IjU2M2QwNDI1LTBlMDQtNGVlMi05NTE3LTNjYmIxMzMyZTQ5OCJ9))
+
 ##  Overview  
 This project focuses on analyzing sales performance for **TATA Online Retail** using an interactive dashboard.  
 The goal was to extract actionable insights from retail transaction data, identify key trends,  
